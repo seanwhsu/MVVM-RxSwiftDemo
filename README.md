@@ -1,2 +1,2 @@
-# rxswiftdemo
+# RxSwift + MVVM
 RxSwift+MVVM Demo Project
