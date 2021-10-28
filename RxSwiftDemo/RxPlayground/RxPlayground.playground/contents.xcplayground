@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Installation'/>
+        <page name='WhyRx'/>
+        <page name='Reactive'/>
+        <page name='RxSwiftCore'/>
+        <page name='Observable'/>
+        <page name='Observer'/>
+        <page name='Disposable'/>
+        <page name='TableViewSectionedViewController'/>
+    </pages>
+</playground>
